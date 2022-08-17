@@ -1,0 +1,5 @@
+Don't host this file..
+
+to run on local - copy this folder into your computer and open index.html from the browser.
+                  dont delete any sub files or folders.
+
